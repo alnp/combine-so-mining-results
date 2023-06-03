@@ -9,7 +9,7 @@ Under the folders in `/data-explorer`, data either genereated by or collected fo
 | :------------- |:-------------|
 | consolidated-source | Contains posts collected from Stack Exchange Data Explorer |
 | lda-results | Contains the results of the last LDA execution |
-| result-processing | Contains data presented in the Result section (RQ2) |
+| result-processing | Contains data presented in the Result section |
 
 The file `stopwords.txt` contains a list of stop words used during preprocessing.
 
