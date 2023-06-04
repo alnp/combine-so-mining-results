@@ -1,0 +1,15 @@
+Topic Number,Topic,# Posts,% Posts,Avg View,Avg Score,Avg Comments,Questions w/o answers
+0,Displaying data from collections,203,7.12%,961.683,2.296,2.034,58.54%
+1,Operators for Stream Manipulation,318,11.15%,"1,035.811",2.428,1.774,38.38%
+2,ViewModel in SwiftUI,324,11.36%,"1,461.219",3.318,1.948,49.05%
+3,REST API Calls,253,8.87%,823.896,1.253,1.787,41.97%
+4,Data Binding and View Updating,376,13.18%,"1,701.370",4.066,1.774,39.35%
+5,Introductory Combine,97,3.40%,"1,384.667",2.423,1.351,44.44%
+6,Stream Composition,108,3.79%,"1,267.474",2.324,2.037,36.84%
+7,Concurrency,125,4.38%,"1,824.708",3.792,2.192,40.00%
+8,UI and User Interaction,172,6.03%,"1,379.776",2.384,1.523,38.81%
+9,Software Development,80,2.80%,"1,263.651",3.175,1.750,44.19%
+10,Publishing Data,204,7.15%,"2,010.211",3.289,1.652,39.44%
+11,Stream Lifecycle,159,5.57%,"1,666.974",3.711,1.786,48.05%
+12,Data Typing,102,3.58%,"1,650.000",4.039,1.490,40.74%
+13,Bugs and Error Handling,332,11.64%,"1,874.278",3.476,1.660,33.89%
